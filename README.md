@@ -9,8 +9,8 @@
 
 
 ## หน้า UI 
-- <img src="https://github.com/Teerapoom/Basic-Shopping-Flutter/blob/main/IMG_git/UI%201.jpg" width="100"/>
-- ![Logo](https://github.com/Teerapoom/Basic-Shopping-Flutter/blob/main/IMG_git/UI%202.jpg)
-- ![Logo](https://github.com/Teerapoom/Basic-Shopping-Flutter/blob/main/IMG_git/UI%203.jpg)
+- <img src="https://github.com/Teerapoom/Basic-Shopping-Flutter/blob/main/IMG_git/UI%201.jpg" width="150"/>
+- <img src="https://github.com/Teerapoom/Basic-Shopping-Flutter/blob/main/IMG_git/UI%202.jpg" width="150"/>
+- <img src="https://github.com/Teerapoom/Basic-Shopping-Flutter/blob/main/IMG_git/UI%203.jpg" width="150"/>
 
 
